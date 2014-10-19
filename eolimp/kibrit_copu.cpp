@@ -1,3 +1,10 @@
+/** 
+ * e-herfi.cpp: Defines the entry point for the console application.
+ * @author Mirjalal Talishinski
+ * @compiler Dev-C++
+ * @created 16.10.14
+ */
+ 
 #include <iostream>
 #include <string>
 

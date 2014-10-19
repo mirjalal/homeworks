@@ -1,7 +1,7 @@
 /** 
+ * reqemlerin_sayi.cpp: Defines the count of the digits in entered number.
  * @author Mirjalal Talishinski
  * @compiler Dev C++
- * @license standart student license
  * @created 12.10.14
  */
  

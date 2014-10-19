@@ -1,3 +1,10 @@
+/** 
+ * reqem_cemi.cpp: Counts sum of the '2 digits number digits'
+ * @author Mirjalal Talishinski
+ * @compiler Dev-C++
+ * @created 12.10.14
+ */
+ 
 #include <iostream>
 
 using namespace std;
